@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>appicon.ico</file>
+        <file>copy_text.ico</file>
+        <file>delete_text.ico</file>
+        <file>exit.ico</file>
+        <file>save.ico</file>
+        <file>cut.ico</file>
+        <file>deal.ico</file>
+        <file>Github.ico</file>
+    </qresource>
+</RCC>
