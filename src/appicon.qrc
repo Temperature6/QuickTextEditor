@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pic/copy_text.png</file>
+        <file>pic/cut.png</file>
+        <file>pic/deal.png</file>
+        <file>pic/delete_text.png</file>
+        <file>pic/exit.png</file>
+        <file>pic/Github.ico</file>
+        <file>pic/save.png</file>
+        <file>pic/appicon.ico</file>
+    </qresource>
+</RCC>
